@@ -1,0 +1,13 @@
+D:\ThucTap\Test_Intern\Bai1_a\bin\Debug\netcoreapp3.1\Bai1_a.exe
+D:\ThucTap\Test_Intern\Bai1_a\bin\Debug\netcoreapp3.1\Bai1_a.deps.json
+D:\ThucTap\Test_Intern\Bai1_a\bin\Debug\netcoreapp3.1\Bai1_a.runtimeconfig.json
+D:\ThucTap\Test_Intern\Bai1_a\bin\Debug\netcoreapp3.1\Bai1_a.runtimeconfig.dev.json
+D:\ThucTap\Test_Intern\Bai1_a\bin\Debug\netcoreapp3.1\Bai1_a.dll
+D:\ThucTap\Test_Intern\Bai1_a\bin\Debug\netcoreapp3.1\Bai1_a.pdb
+D:\ThucTap\Test_Intern\Bai1_a\obj\Debug\netcoreapp3.1\Bai1_a.AssemblyInfoInputs.cache
+D:\ThucTap\Test_Intern\Bai1_a\obj\Debug\netcoreapp3.1\Bai1_a.AssemblyInfo.cs
+D:\ThucTap\Test_Intern\Bai1_a\obj\Debug\netcoreapp3.1\Bai1_a.csproj.CoreCompileInputs.cache
+D:\ThucTap\Test_Intern\Bai1_a\obj\Debug\netcoreapp3.1\Bai1_a.dll
+D:\ThucTap\Test_Intern\Bai1_a\obj\Debug\netcoreapp3.1\Bai1_a.pdb
+D:\ThucTap\Test_Intern\Bai1_a\obj\Debug\netcoreapp3.1\Bai1_a.genruntimeconfig.cache
+D:\ThucTap\Test_Intern\Bai1_a\obj\Debug\netcoreapp3.1\Bai1_a.csproj.AssemblyReference.cache
